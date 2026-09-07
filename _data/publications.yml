@@ -2,4 +2,7 @@ main:
   - title: Towards Evolving Context Parameterization for Large Language Models
     authors: "<strong>Xiaobing Shi</strong> et al."
     conference: "2026."
+    image: /assets/img/publications/plume-method.png
+    image_pdf: /assets/img/publications/plume-method.pdf
+    badge: Preprint
     # The CV contains a placeholder arXiv ID. Add a verified URL when available.

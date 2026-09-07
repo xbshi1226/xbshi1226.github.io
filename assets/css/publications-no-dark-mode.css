@@ -1,3 +1,55 @@
+.publication-item {
+    margin-bottom: 1rem;
+}
+
+.publication-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.publication-figure {
+    position: relative;
+    flex: 0 0 42%;
+    line-height: 0;
+}
+
+.publication-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.publication-badge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0.3rem 0.55rem;
+    background: #043361;
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.publication-details {
+    flex: 1;
+    min-width: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .publication-card {
+        display: block;
+    }
+
+    .publication-figure {
+        display: block;
+        width: 100%;
+        margin-bottom: 0.75rem;
+    }
+}
+
 .badge {
     display: inline-block;
     padding: 0.25em 0.4em;
