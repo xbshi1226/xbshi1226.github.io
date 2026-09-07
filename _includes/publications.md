@@ -1,8 +1,8 @@
 <h2 id="publications">Publications</h2>
 
-<ol>
+<div class="publication-list">
 {% for publication in site.data.publications.main %}
-  <li class="publication-item">
+  <article class="publication-item">
     <div class="publication-card">
       {% if publication.image %}
       <a class="publication-figure" href="{{ publication.image_pdf | default: publication.image | relative_url }}" aria-label="View figure for {{ publication.title }}">
@@ -11,15 +11,14 @@
       </a>
       {% endif %}
       <div class="publication-details">
-        {% if publication.pdf %}
-        <strong><a href="{{ publication.pdf }}">{{ publication.title }}</a></strong><br>
-        {% else %}
-        <strong>{{ publication.title }}</strong><br>
-        {% endif %}
-        {{ publication.authors }}<br>
-        <em>{{ publication.conference }}</em>
+        <div class="publication-title">{{ publication.title }}</div>
+        <div class="publication-authors">{{ publication.authors }}</div>
+        <div class="publication-links">
+          <a href="{{ publication.pdf }}">PDF</a>
+          <a href="{{ publication.code }}">Code</a>
+        </div>
       </div>
     </div>
-  </li>
+  </article>
 {% endfor %}
-</ol>
+</div>
