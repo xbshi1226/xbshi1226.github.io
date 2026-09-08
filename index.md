@@ -6,17 +6,12 @@ layout: homepage
 
 I am Xiaobing Shi. I received my B.Eng. in Computer Science and Technology from Nanjing University of Posts and Telecommunications in June 2026. My research focuses on memory and adaptation in large language models and multimodal large language models, with an interest in visual understanding, reasoning, and controllable AI.
 
+I am always open to collaborations and potential opportunities. Please feel free to reach out!
 
 ## Research Interests
 
 - **(M)LLMs:** latent memory, visual understanding, and reasoning.
 - **Adaptive and Controllable AI:** Continual Adaptation, Model Editing, Interpretability.
-
-## Education
-
-**Nanjing University of Posts and Telecommunications**, Nanjing, China<br>
-B.Eng. in Computer Science and Technology · Sep 2022 – Jun 2026<br>
-**GPA: 4.0/4.0 (93.1/100)**
 
 {% include_relative _includes/publications.md %}
 
@@ -46,6 +41,12 @@ B.Eng. in Computer Science and Technology · Sep 2022 – Jun 2026<br>
 
 - Developed a self-healing pipeline for Ai-Gen-Test, a LangChain-based test automation framework, using stack traces, exception classification, and prompt chaining to repair LLM-generated code.
 - Reduced average test execution time from **12 minutes to 2 minutes (6× speedup)** by introducing service virtualization to mock high-latency dependencies and streamlining test setup and teardown. -->
+
+## Education
+
+**Nanjing University of Posts and Telecommunications**, Nanjing, China<br>
+B.Eng. in Computer Science and Technology · Sep 2022 – Jun 2026<br>
+**GPA: 4.0/4.0 (93.1/100)**
 
 ## Awards & Honors
 
