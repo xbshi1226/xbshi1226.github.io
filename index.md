@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am Xiaobing Shi. I received my B.Eng. in Computer Science and Technology from Nanjing University of Posts and Telecommunications in June 2026. My research focuses on memory and adaptation in large language models and multimodal large language models, with an interest in visual understanding, reasoning, and controllable AI.
+I am **Xiaobing Shi**. I received my B.Eng. in Computer Science and Technology from NJUPT <img class="school-logo" src="{{ '/assets/img/school_logo/njupt-logo.jpeg' | relative_url }}" alt="NJUPT logo">. My research focuses on memory and adaptation in large language models and multimodal large language models, with an interest in visual understanding, reasoning, and controllable AI.
 
-I am always open to collaborations and potential opportunities. Please feel free to reach out!
+**I am always open to collaborations and potential opportunities. Please feel free to reach out!**
 
 ## Research Interests
 
