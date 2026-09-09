@@ -9,8 +9,8 @@ baseurl: ""
 canonical: https://xbshi1226.github.io/
 github_link: https://github.com/xbshi1226
 # Add a personal avatar and verified CV PDF when available.
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.JPG
+favicon_dark: ./assets/img/favicon.JPG
 enable_footnote: true
 auto_dark_mode: true
 font: "Serif"
