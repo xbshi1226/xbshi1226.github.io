@@ -44,7 +44,7 @@
 }
 
 .publication-title {
-    color: var(--global-theme-color, #002d72);
+    color: #6A3FA0;
     font-weight: 700;
     line-height: 1.35;
     margin-bottom: 0.35rem;

@@ -2,6 +2,7 @@ title: Xiaobing Shi
 position: B.Eng. in Computer Science and Technology
 affiliation: Nanjing University of Posts and Telecommunications
 email: xiaobingshi1226@gmail.com
+email_display: xiaobingshi1226 [at] gmail [dot] com
 keywords: Xiaobing Shi, large language models, multimodal memory, continual adaptation, model editing
 description: Xiaobing Shi's academic homepage. Research on latent memory, visual understanding, reasoning, and adaptive and controllable AI.
 url: https://xbshi1226.github.io
@@ -9,8 +10,8 @@ baseurl: ""
 canonical: https://xbshi1226.github.io/
 github_link: https://github.com/xbshi1226
 # Add a personal avatar and verified CV PDF when available.
-favicon: ./assets/img/favicon.JPG
-favicon_dark: ./assets/img/favicon.JPG
+favicon: ./assets/img/favicon/favicon.JPG
+favicon_dark: ./assets/img/favicon/favicon.JPG
 enable_footnote: true
 auto_dark_mode: true
 font: "Serif"

@@ -1,5 +1,7 @@
 <h2 id="publications">Publications</h2>
 
+<p class="publication-note">* indicates author with equal contribution; † indicates corresponding author;</p>
+
 <div class="publication-list">
 {% for publication in site.data.publications.main %}
   <article class="publication-item">

@@ -3,10 +3,16 @@
 
 @import "minimal-light-no-dark-mode";
 
+.email-address {
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
 .school-logo {
   width: auto;
-  height: 1.25em;
+  height: 1.6em;
   margin-left: 0.15em;
-  vertical-align: -0.28em;
+  margin-right: 0.1em;
+  vertical-align: middle;
   object-fit: contain;
 }
